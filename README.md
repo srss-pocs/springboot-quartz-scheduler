@@ -32,6 +32,7 @@ Few more scenarios
 
 ![image](https://github.com/srss-pocs/springboot-quartz-scheduler/assets/145287517/3396b9e8-c577-492c-b7f2-fecdf8fba551)
 
+![image](https://github.com/srss-pocs/springboot-quartz-scheduler/assets/145287517/9be57d35-293b-47ed-aab8-962f44b9d188)
 
 
 

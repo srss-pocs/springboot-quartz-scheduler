@@ -1,8 +1,8 @@
 # springboot-quartz-scheduler
 Spring Boot 3.1.4
 
-SQL Script
-https://github.com/callicoder/spring-boot-quartz-scheduler-email-scheduling/blob/master/src/main/resources/quartz_tables.sql
+Run SQL Script atatched
+
 
 
 Quartz Scheduler Use Cases:

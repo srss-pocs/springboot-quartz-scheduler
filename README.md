@@ -1,6 +1,10 @@
 # springboot-quartz-scheduler
 Spring Boot 3.1.4
 
+SQL Script
+https://github.com/callicoder/spring-boot-quartz-scheduler-email-scheduling/blob/master/src/main/resources/quartz_tables.sql
+
+
 Quartz Scheduler Use Cases:
 
 Complex Job Scheduling: Manage complex and dynamic job scheduling requirements using cron-like expressions and custom triggers.
